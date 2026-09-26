@@ -1,0 +1,28 @@
+{
+  "threshold": 0.94,
+  "val_macro_f05": 0.9176698644848279,
+  "feature_names": [
+    "name_jaccard",
+    "name_token_f1",
+    "name_dice3",
+    "name_edit",
+    "sorted_name_jaccard",
+    "addr_jaccard",
+    "addr_token_f1",
+    "addr_dice3",
+    "addr_edit",
+    "same_country",
+    "same_zip",
+    "same_street_no",
+    "phonetic_match",
+    "exact_core_name",
+    "exact_sorted_name",
+    "name_len_ratio",
+    "addr_len_ratio",
+    "both_have_zip",
+    "zip_mismatch"
+  ],
+  "nrows": 20000,
+  "max_train_s1": null,
+  "elapsed_sec": 114.2
+}
